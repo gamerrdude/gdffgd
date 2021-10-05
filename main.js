@@ -2,7 +2,7 @@ noseX=0;
 noseY=0;
 
 function preload() {
-  clown_nose = loadImage('https://postimg.cc/m1Gmcvy6');
+  clown_nose = loadImage('https://i.postimg.cc/tJswcyZy/hat.png');
 }
 
 function setup() {
